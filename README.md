@@ -224,13 +224,13 @@ chmod +x cleanup.sh
 
 | | |
 |:---:|:---:|
-| <img src="Screenshots/Screenshot 2026-04-13 220125.png" width="480"> | <img src="Screenshots/Screenshot 2026-04-13 220459.png" width="480"> |
-| <img src="Screenshots/Screenshot 2026-04-13 220512.png" width="480"> | <img src="Screenshots/Screenshot 2026-04-13 220537.png" width="480"> |
-| <img src="Screenshots/Screenshot 2026-04-13 220555.png" width="480"> | <img src="Screenshots/Screenshot 2026-04-13 220629.png" width="480"> |
-| <img src="Screenshots/Screenshot 2026-04-13 221132.png" width="480"> | <img src="Screenshots/Screenshot 2026-04-13 221208.png" width="480"> |
-| <img src="Screenshots/Screenshot 2026-04-13 221235.png" width="480"> | <img src="Screenshots/Screenshot 2026-04-13 221335.png" width="480"> |
-| <img src="Screenshots/Screenshot 2026-04-13 221344.png" width="480"> | <img src="Screenshots/Screenshot 2026-04-13 221407.png" width="480"> |
-| <img src="Screenshots/Screenshot 2026-04-13 221427.png" width="480"> | |
+| <img src="screenshots/Screenshot 2026-04-13 220125.png" width="480"> | <img src="screenshots/Screenshot 2026-04-13 220459.png" width="480"> |
+| <img src="screenshots/Screenshot 2026-04-13 220512.png" width="480"> | <img src="screenshots/Screenshot 2026-04-13 220537.png" width="480"> |
+| <img src="screenshots/Screenshot 2026-04-13 220555.png" width="480"> | <img src="screenshots/Screenshot 2026-04-13 220629.png" width="480"> |
+| <img src="screenshots/Screenshot 2026-04-13 221132.png" width="480"> | <img src="screenshots/Screenshot 2026-04-13 221208.png" width="480"> |
+| <img src="screenshots/Screenshot 2026-04-13 221235.png" width="480"> | <img src="screenshots/Screenshot 2026-04-13 221335.png" width="480"> |
+| <img src="screenshots/Screenshot 2026-04-13 221344.png" width="480"> | <img src="screenshots/Screenshot 2026-04-13 221407.png" width="480"> |
+| <img src="screenshots/Screenshot 2026-04-13 221427.png" width="480"> | |
 
 ## Contributing:
 
