@@ -1,0 +1,33 @@
+{
+  "name": "land-registry-blockchain",
+  "version": "2.0.0",
+  "description": "Blockchain-based Land Registration System with Modern React Frontend",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate --reset",
+    "test": "truffle test",
+    "console": "truffle console",
+    "verify-users": "truffle exec scripts/verify-users.js",
+    "frontend": "cd land-registry-frontend && npm start",
+    "install-frontend": "cd land-registry-frontend && npm install",
+    "build-frontend": "cd land-registry-frontend && npm run build"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "land-registry",
+    "smart-contracts",
+    "react",
+    "truffle",
+    "solidity"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "truffle": "^5.11.5"
+  }
+}

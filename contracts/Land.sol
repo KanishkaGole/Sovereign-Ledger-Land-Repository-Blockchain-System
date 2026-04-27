@@ -331,10 +331,15 @@ contract Land {
 
     }
 
-    function LandOwnershipTransfer(uint _landId, address _newOwner) public{
-        require(isLandInspector(msg.sender));
-
-        LandOwner[_landId] = _newOwner;
+    function LandOwnershipTransfer(uint _reqId) public{
+        require(isLandInspector(msg.sender), "Only inspector can transfer");
+        require(isRequested(_reqId), "Request does not exist");
+        require(isApproved(_reqId), "Request not approved by seller");
+        
+        LandRequest memory req = RequestsMapping[_reqId];
+        require(LandOwner[req.landId] == req.sellerId, "Seller is not the owner");
+        
+        LandOwner[req.landId] = req.buyerId;
     }
 
     function isPaid(uint _landId) public view returns (bool) {
